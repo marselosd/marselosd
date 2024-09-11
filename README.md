@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😸! My name is Marcelo</h1>
-<img src="https://i.imgur.com/serdzCK.png">
+<img aling="center" src="https://i.imgur.com/serdzCK.png">
 <h3 align="center">A passionate dev from Brazil</h3>
 
 - 🔭 currently working on.. **Python Projects!**
