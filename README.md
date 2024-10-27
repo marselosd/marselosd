@@ -50,20 +50,6 @@
 
 ###
 
-<h3 align="left">Others:</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<p align="left">- Studying IT<br>- 20y old<br>- Portugues (BR), English & Japanese</p>
+<p align="left">20 Anos<br>- Portugues (BR), English & Japanese</p>
 
 ###
