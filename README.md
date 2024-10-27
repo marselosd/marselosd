@@ -50,6 +50,6 @@
 
 ###
 
-<p align="left">20 Anos<br>- Portugues (BR), English & Japanese</p>
+<p align="left">20 Anos<br>- Portugues (BR), English & にほんご</p>
 
 ###
