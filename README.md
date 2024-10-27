@@ -4,19 +4,21 @@
 
 ###
 
-<h1 align="center">Welcome! My name is Marcelo😸</h1>
+<h1 align="center">Bem Vindo ao meu repositório!</h1>
+<h3 align="center">alguns projetos pessoais</h3>
 
 ###
 
-<p align="right">Desenvolvedor Brasileiro</p>
+<p align="right">marcelo</p>
 
 ###
 
-<h3 align="left">Im Proficient in:</h3>
+<h3 align="left">Proficiente</h3>
 
 ###
 
 <div align="center">
+  <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
