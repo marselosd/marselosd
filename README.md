@@ -4,13 +4,12 @@
 
 ###
 
-<h1 align="center">Bem Vindo ao Meu Repositório!</h1>
+<h3 align="center" style="font-size:160%;">Bem Vindo ao Meu Repositório!</h3>
 
-###
 
-<p align="right">Marcelo Dalcin</p>
+<p align="center">Marcelo Dalcin</p>
 
-###
+<br>
 
 <h2 align="center">Tecnologias</h1>
 
