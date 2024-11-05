@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">LINGUAGENS!</h1>
+<h2 align="center">Tecnologias</h1>
 
 <h3 align="left">Proficiente</h3>
 
@@ -42,6 +42,6 @@
 
 ###
 
-<p align="left">20 Anos<br>- Portugues (BR), English & にほんご</p>
+<p align="left">20 Anos<br>- Portugues (BR), English</p>
 
 ###
