@@ -23,10 +23,12 @@ Sou um desenvolvedor apaixonado por *programação* e *tecnologias inovadoras*. 
 [![My Skills](https://skillicons.dev/icons?i=c,rust,go)](https://skillicons.dev)
 
 - *Bancos de Dados*:
-[![My Skills](https://skillicons.dev/icons?i=mysql,)] <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,)] (https://skillicons.dev)
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 - *Ferramentas*:
-(https://skillicons.dev/icons?i=docker,figma,git,unreal,visualstudio,idea) <img width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,unreal,visualstudio,idea)] (https://skillicons.dev)
+<img width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 
 
 
