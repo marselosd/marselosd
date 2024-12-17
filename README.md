@@ -1,34 +1,41 @@
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marcelosdalcin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
+  <a href="https://www.linkedin.com/in/marcelosdalcin/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
-<h3 align="center" style="font-size:160%;">Bem Vindo ao Meu Repositório!</h3>
+<h3 align="center" style="font-size:160%;">Welcome to My Repo!</h3>
 
-# Olá, eu sou o [Marcelo!]👋
+<h3 align="center" style="font-size:200%;">👋 Hello, I'm Marcelo!</h3>
 
-Sou um desenvolvedor apaixonado por *programação* e *tecnologias inovadoras*. Tenho experiência com diversas linguagens e ferramentas, incluindo:
+<h4>💻 I am a developer passionate about coding and technologies (especially the lower level stuff!). I have experience with a big amount of languages and tools, including:</h4>
 
 ###
-- *Linguagens de Programação::🛠️Proficiente🛠️*:
+- *💻 Programming Languages::🛠️Proficient🛠️*:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
 
-- *Linguagens de Programação::Conheço*:
+- *💻 Programming Languages::🌱Familiar with🌱*:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,js,php,py)](https://skillicons.dev)
 
-- *Linguagens de Programação::🌱Aprendendo🌱*:
+- *💻 Programming Languages::📚Learning📚*:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=c,rust,go)](https://skillicons.dev)
 
-- *Bancos de Dados*:
+- *💾 Databases*:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
-- *Ferramentas*:
+- *⚙️ Tools*:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,unreal,visualstudio,idea)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 
-
-<p align="left">20 Anos<br>- Portugues (BR), English</p>
+<p align="left">20 Years<br>🌐 Languages: Portuguese (BR), English</p>
 
 ###
+
