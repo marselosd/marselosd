@@ -17,18 +17,22 @@
 ###
 - *💻 Programming Languages::🛠️Proficient🛠️*:
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
 
 - *💻 Programming Languages::🌱Familiar with🌱*:
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,js,php,py)](https://skillicons.dev)
 
 - *💻 Programming Languages::📚Learning📚*:
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=c,rust,go)](https://skillicons.dev)
 
 - *💾 Databases*:
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 - *⚙️ Tools*:
