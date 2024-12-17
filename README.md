@@ -26,7 +26,7 @@ Sou um desenvolvedor apaixonado por *programação* e *tecnologias inovadoras*. 
 [![My Skills](https://skillicons.dev/icons?i=mysql,)] <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />(https://skillicons.dev)
 
 - *Ferramentas*:
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,unreal,visualstudio,idea)]  <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />(https://skillicons.dev)
+(https://skillicons.dev/icons?i=docker,figma,git,unreal,visualstudio,idea) <img width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 
 
 
