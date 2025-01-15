@@ -40,7 +40,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,arduino,postman,gherkin,docker,figma,git,unreal,visualstudio,idea)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 
-<p align="left">20 Years<br>⚙️ Others: REST Assured </p>
+<p align="left">⚙️ Others: <br>REST Assured </p>
 <br>
 <p align="left">20 Years<br>🌐 Languages: Portuguese (BR), English, 日本語</p>
 
