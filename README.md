@@ -12,7 +12,7 @@
 
 <h3 align="center" style="font-size:200%;">👋 Hello, I'm Marcelo!</h3>
 
-<h4>💻 I am a developer passionate about coding and technologies (especially the lower level stuff!). I have experience with a big amount of languages and tools, including:</h4>
+<h4>💻 I am a developer and graduate in IT passionate about coding and technologies (especially the lower level stuff!). I have experience with a big amount of languages and tools, including:</h4>
 
 ###
 - *💻 Programming Languages::🛠️Proficient🛠️*:
@@ -42,7 +42,7 @@
 
 <p align="left">⚙️ Others: <br>REST Assured </p>
 <br>
-<p align="left">20 Years<br>🌐 Languages: Portuguese (BR), English, 日本語</p>
+<p align="left">20 Years Old<br>🌐 Languages: Portuguese (BR), English, 日本語</p>
 
 ###
 
