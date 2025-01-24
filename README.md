@@ -38,7 +38,7 @@
 - *⚙️ Tools*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,arduino,postman,gherkin,docker,figma,git,unreal,visualstudio,idea)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,arduino,postman,gherkin,selenium,docker,figma,git,unreal,visualstudio,idea)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 
 <p align="left">⚙️ Others: <br>REST Assured </p>
 <br>
