@@ -33,7 +33,7 @@
 - *💾 Databases*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <img width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 - *⚙️ Tools*:
 <br>
