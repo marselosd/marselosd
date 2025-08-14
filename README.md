@@ -18,7 +18,7 @@
 - *💻 Programming Languages::🛠️Proficient🛠️*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,go)](https://skillicons.dev)
 
 - *💻 Programming Languages::🌱Familiar with🌱*:
 <br>
@@ -28,7 +28,7 @@
 - *💻 Programming Languages::📚Learning📚*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
 
 - *💾 Databases*:
 <br>
