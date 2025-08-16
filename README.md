@@ -38,7 +38,7 @@
 - *⚙️ Tools*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bootstrap,clion,cmake,cypress,docker,dotnet,firebase,git,gherkin,idea,linux,nextjs,nodejs,postman,pytorch,redis,redux,rider,spring,tailwind,unreal,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bootstrap,clion,cmake,cypress,docker,dotnet,firebase,git,gherkin,idea,linux,nextjs,nodejs,postman,pytorch,qt,redis,redux,rider,spring,tailwind,unreal,visualstudio)](https://skillicons.dev)
 
 <br>
 <p align="left">20 Years Old<br>🌐 Languages: Portuguese (BR), English, 日本語</p>
