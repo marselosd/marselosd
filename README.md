@@ -18,17 +18,12 @@
 - *💻 Programming Languages::🛠️Proficient🛠️*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,go,rust)](https://skillicons.dev)
 
 - *💻 Programming Languages::🌱Familiar with🌱*:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,c,css,html,js,php,py)](https://skillicons.dev)
-
-- *💻 Programming Languages::📚Learning📚*:
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,css,html,js,ts,php,py)](https://skillicons.dev)
 
 - *💾 Databases*:
 <br>
